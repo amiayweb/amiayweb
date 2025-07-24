@@ -21,7 +21,7 @@
 ### 🛠️ Technologies & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=php,express,js,nodejs,csharp,html,css,mysql,git,linux,vscode" />
+  <img src="https://skillicons.dev/icons?i=php,express,js,nodejs,html,css,mysql,git,linux,vscode" />
 </p>
 
 ---
