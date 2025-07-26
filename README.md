@@ -29,8 +29,10 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amiayweb&theme=dark&hide_border=true&layout=compact">
-  <br/>
+    <br>
+
+  <img width="50%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amiayweb&theme=dark&hide_border=true&layout=compact">
+  <br>
 
 </p>
 
